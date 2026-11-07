@@ -21,3 +21,4 @@ The format, with an example (copy the shape, not the words):
 
 ## My log
 
+- W02 · ChatGPT (GPT-6) · Used for: drafting my AI Software Testing Agent proposal and helping with GitHub setup Checked by: reviewing the proposal, verifying the merged pull request, and running all 12 tests successfully
